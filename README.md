@@ -1,6 +1,6 @@
 # Blibli API Client
 
-Declarative API Client using Spring Web Client and Reactor Netty
+Declarative API Client using Spring Web Client and Reactor Netty.
 
 ## Dependency
 
